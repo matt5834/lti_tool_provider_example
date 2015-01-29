@@ -11,3 +11,6 @@ You can use the XML from the `/tool_config.xml` endpoint to configure the tool i
 
 You can use this with the [example LTI Tool Consumer](https://github.com/instructure/lti_tool_consumer_example)
 to do some simple LTI testing.
+
+
+Edit
